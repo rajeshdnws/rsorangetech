@@ -1,0 +1,27 @@
+/*
+Theme Name: rsorangetech
+Author: Your Name
+Description: A business WordPress theme for a software company.
+Version: 1.0
+Tags: orange, business, software
+Text Domain: rsorangetech
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+header {
+    background: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 2px solid #ff6600;
+}
